@@ -28,12 +28,12 @@
     @csrf
     <div class="form-group">
         <label for="nama">Nama</label>
-        <input type="text" class="form-control" id="nama" name="nama" placeholder="jhon dhoe...">
+        <input type="text" class="form-control" id="nama" name="nama" placeholder="masukkan nama anda">
     </div>
 
     <div class="form-group">
         <label for="alamat">Alamat</label>
-        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="Address...">
+        <input type="text" class="form-control" id="alamat" name="alamat" placeholder="masukkan alamat anda">
     </div>
 
     <div class="form-group">
@@ -42,7 +42,7 @@
 </form>
     </div>
     <div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">AchmadS</a></center>
+		<center>Copyright &copy; 2021 - <a href="https://www.facebook.com/lavonte12">AchmadS</a></center>
 	</div>
 </body>
 

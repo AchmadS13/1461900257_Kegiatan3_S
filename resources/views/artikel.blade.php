@@ -34,7 +34,7 @@
 		<p>Bahasa pemrograman komputer yang kita kenal antara lain adalah Java, Visual Basic, C++, C, Cobol, PHP, .Net, dan ratusan bahasa lainnya. Namun tentu saja kebutuhan bahasa ini harus disesuaikan dengan fungsi dan perangkat yang menggunakannya. </p>
 	</div>
 	<div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">AchmadS</a></center>
+		<center>Copyright &copy; 2021 - <a href="https://www.facebook.com/lavonte12">AchmadS</a></center>
 	</div>
 </body>
 </html>

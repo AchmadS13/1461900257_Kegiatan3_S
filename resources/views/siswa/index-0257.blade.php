@@ -32,7 +32,7 @@
     </div>
 <table class="table table-bordered">
     <thead>
-        <tr>
+        <tr>    
             <th scope="col">#</th>
             <th scope="col">Nama</th>
             <th scope="col">Alamat</th>
@@ -60,7 +60,7 @@
 </table>
     </div>
     <div class="footer">
-		<center>Copyright &copy; 2021 - <a href="facebook.com/lavonte12">AchmadS</a></center>
+		<center>Copyright &copy; 2021 - <a href="https://www.facebook.com/lavonte12">AchmadS</a></center>
 	</div>
 </body>
 
